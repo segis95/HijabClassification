@@ -1,7 +1,7 @@
 # HijabClassification
 Binary Image Hijab Presence Classification
 
-> Данные
+# Данные
 Данные могут быть загружены здесь:
 https://drive.google.com/drive/folders/1FYXr5vmxylXCVfGKKYUe2fHCjh6EMxLL?usp=sharing
 
