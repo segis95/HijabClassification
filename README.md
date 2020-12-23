@@ -1,10 +1,11 @@
 # HijabClassification
 Binary Image Hijab Presence Classification
 
-# Данные
+## Данные
 Данные могут быть загружены здесь:
 https://drive.google.com/drive/folders/1FYXr5vmxylXCVfGKKYUe2fHCjh6EMxLL?usp=sharing
 
+## Директория
 Взаимное расположение фалов должно выглядеть следующим образом:\
 /--------------------------------------------------------------\
 /data----------------------------------------------------------\
@@ -12,7 +13,7 @@ https://drive.google.com/drive/folders/1FYXr5vmxylXCVfGKKYUe2fHCjh6EMxLL?usp=sha
 -----/total_neg------------------------------------------------\
 /Report.ipynb--------------------------------------------------
 
-Требования:
+## Требования
 - Python 3.7.3
 - tensorflow.__version__ == '2.3.1'
 - keras.__version__ == '2.4.3'
