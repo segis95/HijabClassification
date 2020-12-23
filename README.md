@@ -1,11 +1,12 @@
 # HijabClassification
 Binary Image Hijab Presence Classification
 
+Код и отчёт содержатся в файле **[Report.ipynb](Report.ipynb)**
+
 ## Данные
 Данные могут быть загружены здесь:
 https://drive.google.com/drive/folders/1FYXr5vmxylXCVfGKKYUe2fHCjh6EMxLL?usp=sharing
 
-Код и отчёт содержатся в файле **[Report.ipynb](Report.ipynb)**
 
 ## Директория
 Взаимное расположение фалов должно выглядеть следующим образом:\
