@@ -5,12 +5,11 @@ Binary Image Hijab Presence Classification
 https://drive.google.com/drive/folders/1FYXr5vmxylXCVfGKKYUe2fHCjh6EMxLL?usp=sharing
 
 Взаимное расположение фалов должно выглядеть следующим образом:
-/--------------------------------------------------------------
-$$/newline$$
-  /data--------------------------------------------------------
-    /data/total_pos
-    /data/total_neg
-/Report.ipynb
+/--------------------------------------------------------------\
+  /data--------------------------------------------------------\
+    /data/total_pos\
+    /data/total_neg\
+/Report.ipynb\
 
 Требования:
 - Python 3.7.3
